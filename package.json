@@ -1,0 +1,24 @@
+{
+  "name": "ror-library",
+  "version": "1.0.0",
+  "description": "private library",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rise-of-React/ror-library.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "alexrider94",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rise-of-React/ror-library/issues"
+  },
+  "homepage": "https://github.com/Rise-of-React/ror-library#readme"
+}
