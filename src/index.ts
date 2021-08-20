@@ -1,1 +1,1 @@
-export { permutator } from './Permutation';
+export { permutator } from './util/Permutation';
